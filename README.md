@@ -130,7 +130,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+![alt text](image-3.png)
 ![alt text](image-2.png)
 
 ## RESULT
